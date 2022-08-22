@@ -1,4 +1,4 @@
-# javascritp-proyectos
+# javascritp-proyects
 
 In this repository I will use Vanilla JavaScript without frameworks to solve different challenges
 
